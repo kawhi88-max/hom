@@ -1,8 +1,8 @@
 package com.company;
 
-public interface HavingSuperAbility    {
-     void appylSuperAbility();
-     String  superAbilityType();
+public interface HavingSuperAbility {
+
+    String appylSuperAbility(String superAbilityType);
 
 
 }
